@@ -1,4 +1,5 @@
-[
+{
+  "wallets": [
   {
     "name": "Neo-GUI",
     "developer": "Neo Global Development",
@@ -48,7 +49,7 @@
     "name": "Neon wallet",
     "developer": "City of Zion",
     "homepage": "https://coz.io/",
-    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neon_icon.png",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neon_wallet_icon.png",
     "platforms": [
       {
         "type": "DESKTOP",
@@ -74,7 +75,7 @@
     "name": "NeoLine",
     "developer": "NeoNext",
     "homepage": "https://neoline.io/",
-    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neoline_icon.png",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neo_line_icon.png",
     "platforms": [
       {
         "type": "MOBILE",
@@ -158,7 +159,7 @@
     "name": "OneGate",
     "developer": "The Neo Order",
     "homepage": "https://onegate.space/",
-    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/one_gate_icon.svg",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/one_gate_wallet_icon.svg",
     "platforms": [
       {
         "type": "MOBILE",
@@ -175,3 +176,4 @@
     ]
   }
 ]
+}
