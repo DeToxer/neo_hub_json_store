@@ -35,5 +35,105 @@
         "url": "https://soundcloud.com/tothemoonuniverse"
       }
     ]
+  },
+  {
+    "name":"GhostMarket",
+    "description": "GhostMarket is the most powerful cross-chain Non-Fungible Token (NFT) marketplace in the world! It sports a comprehensive selection of features wrapped in a gorgeous and intuitive user interface. GhostMarket features fully trustless NFT trading facilitated by smart contracts on each integrated blockchain.",
+    "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/ghost_market_logo.png",
+    "category": "NFT",
+    "website": "https://ghostmarket.io/",
+    "social_media_links": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/ghostmarketio"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/THHTS4F"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/ghostmarketio"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/ghostmarket/"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/ghostmarket"
+      }
+    ]
+  },
+  {
+    "name":"HumSwap",
+    "description": "Humswap is one of the Neo Frontier Launchpad Excellence award winners, and was developed by Mario Lopez and Jason Tezanos — two excellent engineers at PayPal. As a two-man team, Humswap is bringing together the worlds of DeFi and NFTs by creating unique NFTs that have potential benefits such as stackable yields, yield multipliers, lower swapping fees, and much more.",
+    "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/humswap_logo.png",
+    "category": "NFT",
+    "website": "https://www.humswap.org/",
+    "social_media_links": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/HumswapNeo"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/gFkEHyjJ"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/user/Humswap"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@humswap"
+      }
+    ]
+  },
+  {
+    "name":"Lyrebird",
+    "description": "Lyrebird is an algorithmic stablecoin and synthetic asset protocol built on the Neo N3 blockchain. The protocol maintains pegs on desired currencies by guaranteeing that the Lyrebird token (LRB) can always be exchanged for each stablecoin token at fair value. For example, $1 worth of LRB can be consumed to mint one Lyrebird USD (LUSD) token and vice versa. The protocol relies on arbitrageurs to stabilize the prices of its stablecoins on exchanges by expanding or contracting the supply to match the demand.",
+    "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/lyrebird_logo.png",
+    "category": "DEFI",
+    "website": "https://lyrebird.finance/",
+    "social_media_links": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/LyrebirdFinance"
+      },
+      {
+        "name": "Medium",
+        "url": "https://lyrebird-finance.medium.com/"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/lyrebird-finance"
+      }
+    ]
+  },
+  {
+    "name":"NekoHit",
+    "description": "Welcome to the NekoHit Project - a platform built on top of NEO N3 which allows you to support projects from people all around the world using the bleeding edge blockchain technology. As a creator you can fund your \"WCA\" (Work Completion Agreements) with CAT tokens. On the other hand as a supporter you can help out your favorite content creators. NekoHit has specifically been designed so that both parties are taking a risk as less as possible.",
+    "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nekohit_logo.png",
+    "category": "OTHER",
+    "website": "https://wca.nekohit.com/about",
+    "social_media_links": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/NekohitProject"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/DfSjhXuWyT"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/NekoHit"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/NekoHitDev"
+      }
+    ]
   }
 ]
