@@ -7,11 +7,13 @@
     "platforms": [
       {
         "type": "DESKTOP",
+        "os": "WINDOWS",
         "name": "Microsoft Windows",
         "url": "https://github.com/neo-ngd/Neo3-GUI"
       },
       {
         "type": "DESKTOP",
+        "os": "MACOS",
         "name": "MacOS",
         "url": "https://github.com/neo-ngd/Neo3-GUI"
       }
@@ -25,16 +27,18 @@
     "platforms": [
       {
         "type": "DESKTOP",
+        "os": "MACOS",
         "name": "Microsoft Windows",
         "url": "https://github.com/neo-project/neo-node"
       },
       {
         "type": "DESKTOP",
-        "name": "MacOS",
+        "os": "WINDOWS",
         "url": "https://github.com/neo-project/neo-node"
       },
       {
         "type": "DESKTOP",
+        "os": "LINUX",
         "name": "Linux",
         "url": "https://github.com/neo-project/neo-node"
       }
@@ -48,16 +52,19 @@
     "platforms": [
       {
         "type": "DESKTOP",
+        "os": "WINDOWS",
         "name": "Microsoft Windows",
         "url": "https://neonwallet.com/"
       },
       {
         "type": "DESKTOP",
+        "os": "MACOS",
         "name": "MacOS",
         "url": "https://neonwallet.com/"
       },
       {
         "type": "DESKTOP",
+        "os": "LINUX",
         "name": "Linux",
         "url": "https://neonwallet.com/"
       }
@@ -71,16 +78,19 @@
     "platforms": [
       {
         "type": "MOBILE",
+        "os": "ANDROID",
         "name": "Android",
         "url": "https://play.google.com/store/apps/details?id=com.neoline.app"
       },
       {
         "type": "MOBILE",
+        "os": "IOS",
         "name": "iOS",
         "url": ""
       },
       {
         "type": "EXTENSION",
+        "os": "CHROME_BROWSER",
         "name": "Chrome browser",
         "url": "https://chrome.google.com/webstore/detail/neoline/cphhlgmgameodnhkjdmkpanlelnlohao"
       }
@@ -94,26 +104,31 @@
     "platforms": [
       {
         "type": "DESKTOP",
+        "os": "WINDOWS",
         "name": "Microsoft Windows",
         "url": "https://o3.network/#download"
       },
       {
         "type": "DESKTOP",
+        "os": "MACOS",
         "name": "MacOS",
         "url": "https://o3.network/#download"
       },
       {
         "type": "DESKTOP",
+        "os": "LINUX",
         "name": "Linux",
         "url": "https://o3.network/#download"
       },
       {
         "type": "MOBILE",
+        "os": "ANDROID",
         "name": "Android",
         "url": "https://play.google.com/store/apps/details?id=com.o3.o3wallet"
       },
       {
         "type": "MOBILE",
+        "os": "IOS",
         "name": "iOS",
         "url": "https://apps.apple.com/app/id1528451572"
       }
@@ -127,11 +142,13 @@
     "platforms": [
       {
         "type": "MOBILE",
+        "os": "ANDROID",
         "name": "Android",
         "url": "https://play.google.com/store/apps/details?id=com.github.ontio.onto"
       },
       {
         "type": "MOBILE",
+        "os": "IOS",
         "name": "iOS",
         "url": "https://apps.apple.com/us/app/onto-an-ontology-dapp/id1436009823"
       }
@@ -145,11 +162,13 @@
     "platforms": [
       {
         "type": "MOBILE",
+        "os": "ANDROID",
         "name": "Android",
         "url": ""
       },
       {
         "type": "MOBILE",
+        "os": "IOS",
         "name": "iOS",
         "url": ""
       }
