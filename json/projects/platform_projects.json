@@ -3,7 +3,7 @@
     {
       "name":"TOTHEMOON",
       "description": "TOTHEMOON aims to bridge the gap between those unaware of cryptocurrency/blockchain technology and enthusiasts, professionals and industry whales. The team’s goal is to revolutionize the NFT space through unconventional and forward thinking. TOTHEMOON’s growth will ultimately contribute to the crypto community’s expansion into untapped markets and provide quality NFT’s that can be incorporated into multiple projects.",
-      "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/tothemoon_logo.png",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/tothemoon_logo.png",
       "category": "NFT",
       "website": "https://tothemoon.net/",
       "social_media_links": [
@@ -47,7 +47,7 @@
     {
       "name":"GhostMarket",
       "description": "GhostMarket is the most powerful cross-chain Non-Fungible Token (NFT) marketplace in the world! It sports a comprehensive selection of features wrapped in a gorgeous and intuitive user interface. GhostMarket features fully trustless NFT trading facilitated by smart contracts on each integrated blockchain.",
-      "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/ghost_market_logo.png",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/ghost_market_logo.png",
       "category": "NFT",
       "website": "https://ghostmarket.io/",
       "social_media_links": [
@@ -81,7 +81,7 @@
     {
       "name":"HumSwap",
       "description": "Humswap is one of the Neo Frontier Launchpad Excellence award winners, and was developed by Mario Lopez and Jason Tezanos — two excellent engineers at PayPal. As a two-man team, Humswap is bringing together the worlds of DeFi and NFTs by creating unique NFTs that have potential benefits such as stackable yields, yield multipliers, lower swapping fees, and much more.",
-      "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/humswap_logo.png",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/humswap_logo.png",
       "category": "NFT",
       "website": "https://www.humswap.org/",
       "social_media_links": [
@@ -110,7 +110,7 @@
     {
       "name":"Lyrebird",
       "description": "Lyrebird is an algorithmic stablecoin and synthetic asset protocol built on the Neo N3 blockchain. The protocol maintains pegs on desired currencies by guaranteeing that the Lyrebird token (LRB) can always be exchanged for each stablecoin token at fair value. For example, $1 worth of LRB can be consumed to mint one Lyrebird USD (LUSD) token and vice versa. The protocol relies on arbitrageurs to stabilize the prices of its stablecoins on exchanges by expanding or contracting the supply to match the demand.",
-      "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/lyrebird_logo.png",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/lyrebird_logo.png",
       "category": "DEFI",
       "website": "https://lyrebird.finance/",
       "social_media_links": [
@@ -134,7 +134,7 @@
     {
       "name":"NekoHit",
       "description": "Welcome to the NekoHit Project - a platform built on top of NEO N3 which allows you to support projects from people all around the world using the bleeding edge blockchain technology. As a creator you can fund your \"WCA\" (Work Completion Agreements) with CAT tokens. On the other hand as a supporter you can help out your favorite content creators. NekoHit has specifically been designed so that both parties are taking a risk as less as possible.",
-      "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nekohit_logo.png",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nekohit_logo.png",
       "category": "OTHER",
       "website": "https://wca.nekohit.com/about",
       "social_media_links": [
@@ -163,7 +163,7 @@
     {
       "name":"TranslateMe",
       "description": "Machine translation has been around for many years, its biggest challenge is finding suitable data. TranslateMe Network creates an incentive for users to contribute this valuable data. Each sentence submitted mints new TMN tokens in exchange for the data. As more TMN is issued the data collected increases the quality of the machine translation.",
-      "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/translate_me_logo.png",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/translate_me_logo.png",
       "category": "OTHER",
       "website": "https://translateme.network/",
       "social_media_links": [
@@ -182,7 +182,7 @@
     {
       "name":"Rentfuse",
       "description": "Rentfuse is a protocol that enables NFT owners on Neo N3 to rent out their assets while maintaining ownership control. It allows borrowers to use an NFT for a predetermined period of time in exchange for GAS, without the owner relinquishing custody of the asset.",
-      "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_logo.png",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_logo.png",
       "category": "OTHER",
       "website": "https://github.com/mfbz/rentfuse",
       "social_media_links": [
