@@ -159,7 +159,7 @@
     "name": "OneGate",
     "developer": "The Neo Order",
     "homepage": "https://onegate.space/",
-    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/one_gate_wallet_icon.svg",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/one_gate_wallet_icon.png",
     "platforms": [
       {
         "type": "MOBILE",
