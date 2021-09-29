@@ -160,10 +160,9 @@
         }
       ]
     },
-
     {
       "name":"TranslateMe",
-      "description": "Welcome to the NekoHit Project - a platform built on top of NEO N3 which allows you to support projects from people all around the world using the bleeding edge blockchain technology. As a creator you can fund your \"WCA\" (Work Completion Agreements) with CAT tokens. On the other hand as a supporter you can help out your favorite content creators. NekoHit has specifically been designed so that both parties are taking a risk as less as possible.",
+      "description": "Machine translation has been around for many years, its biggest challenge is finding suitable data. TranslateMe Network creates an incentive for users to contribute this valuable data. Each sentence submitted mints new TMN tokens in exchange for the data. As more TMN is issued the data collected increases the quality of the machine translation.",
       "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/translate_me_logo.png",
       "category": "OTHER",
       "website": "https://translateme.network/",
@@ -177,7 +176,21 @@
           "name": "Medium",
           "type": "MEDIUM",
           "url": "https://translateme.medium.com/"
-        },
+        }
+      ]
+    },
+    {
+      "name":"Rentfuse",
+      "description": "Rentfuse is a protocol that enables NFT owners on Neo N3 to rent out their assets while maintaining ownership control. It allows borrowers to use an NFT for a predetermined period of time in exchange for GAS, without the owner relinquishing custody of the asset.",
+      "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_logo.png",
+      "category": "OTHER",
+      "website": "https://github.com/mfbz/rentfuse",
+      "social_media_links": [
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/mfbz/rentfuse"
+        }
       ]
     }
   ]
