@@ -152,6 +152,12 @@
         "os": "IOS",
         "name": "iOS",
         "url": "https://apps.apple.com/us/app/onto-an-ontology-dapp/id1436009823"
+      },
+      {
+        "type": "EXTENSION",
+        "os": "CHROME_BROWSER",
+        "name": "Chrome browser",
+        "url": "https://chrome.google.com/webstore/detail/onto-wallet/ifckdpamphokdglkkdomedpdegcjhjdp?"
       }
     ]
   },
