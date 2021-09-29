@@ -1,9 +1,10 @@
 [
   {
-    "name":"ToTheMoon",
+    "name":"TOTHEMOON",
+    "description": "TOTHEMOON aims to bridge the gap between those unaware of cryptocurrency/blockchain technology and enthusiasts, professionals and industry whales. The team’s goal is to revolutionize the NFT space through unconventional and forward thinking. TOTHEMOON’s growth will ultimately contribute to the crypto community’s expansion into untapped markets and provide quality NFT’s that can be incorporated into multiple projects.",
     "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/tothemoon_logo.png",
     "category": "NFT",
-    "website": "https://tothemoon.net/",
+    "website": "https://tothemoon.net/"
     "social_media_links": [
       {
         "name": "Twitter",
