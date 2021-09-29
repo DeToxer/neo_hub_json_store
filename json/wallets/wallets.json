@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Neo-GUI",
+    "developer": "Neo Global Development",
+    "homepage": "https://ngdenterprise.com/",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neo_gui_icon.png",
+    "platforms": [
+      {
+        "type": "DESKTOP",
+        "name": "Microsoft Windows",
+        "url": "https://github.com/neo-ngd/Neo3-GUI"
+      },
+      {
+        "type": "DESKTOP",
+        "name": "MacOS",
+        "url": "https://github.com/neo-ngd/Neo3-GUI"
+      }
+    ]
+  },
+  {
+    "name": "Neo-CLI",
+    "developer": "The Neo Project",
+    "homepage": "https://neo.ord/",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neo_cli_icon.png",
+    "platforms": [
+      {
+        "type": "DESKTOP",
+        "name": "Microsoft Windows",
+        "url": "https://github.com/neo-project/neo-node"
+      },
+      {
+        "type": "DESKTOP",
+        "name": "MacOS",
+        "url": "https://github.com/neo-project/neo-node"
+      },
+      {
+        "type": "DESKTOP",
+        "name": "Linux",
+        "url": "https://github.com/neo-project/neo-node"
+      }
+    ]
+  },
+  {
+    "name": "Neon wallet",
+    "developer": "City of Zion",
+    "homepage": "https://coz.io/",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neon_icon.png",
+    "platforms": [
+      {
+        "type": "DESKTOP",
+        "name": "Microsoft Windows",
+        "url": "https://neonwallet.com/"
+      },
+      {
+        "type": "DESKTOP",
+        "name": "MacOS",
+        "url": "https://neonwallet.com/"
+      },
+      {
+        "type": "DESKTOP",
+        "name": "Linux",
+        "url": "https://neonwallet.com/"
+      }
+    ]
+  },
+  {
+    "name": "NeoLine",
+    "developer": "NeoNext",
+    "homepage": "https://neoline.io/",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neoline_icon.png",
+    "platforms": [
+      {
+        "type": "MOBILE",
+        "name": "Android",
+        "url": "https://play.google.com/store/apps/details?id=com.neoline.app"
+      },
+      {
+        "type": "MOBILE",
+        "name": "iOS",
+        "url": ""
+      },
+      {
+        "type": "EXTENSION",
+        "name": "Chrome browser",
+        "url": "https://chrome.google.com/webstore/detail/neoline/cphhlgmgameodnhkjdmkpanlelnlohao"
+      }
+    ]
+  },
+  {
+    "name": "O3 Wallet",
+    "developer": "O3 Labs",
+    "homepage": "https://o3.network/",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/O3_icon.png",
+    "platforms": [
+      {
+        "type": "DESKTOP",
+        "name": "Microsoft Windows",
+        "url": "https://o3.network/#download"
+      },
+      {
+        "type": "DESKTOP",
+        "name": "MacOS",
+        "url": "https://o3.network/#download"
+      },
+      {
+        "type": "DESKTOP",
+        "name": "Linux",
+        "url": "https://o3.network/#download"
+      },
+      {
+        "type": "MOBILE",
+        "name": "Android",
+        "url": "https://play.google.com/store/apps/details?id=com.o3.o3wallet"
+      },
+      {
+        "type": "MOBILE",
+        "name": "iOS",
+        "url": "https://apps.apple.com/app/id1528451572"
+      }
+    ]
+  },
+  {
+    "name": "ONTO Wallet",
+    "developer": "ONTO",
+    "homepage": "https://onto.app/",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/onto_icon.png",
+    "platforms": [
+      {
+        "type": "MOBILE",
+        "name": "Android",
+        "url": "https://play.google.com/store/apps/details?id=com.github.ontio.onto"
+      },
+      {
+        "type": "MOBILE",
+        "name": "iOS",
+        "url": "https://apps.apple.com/us/app/onto-an-ontology-dapp/id1436009823"
+      }
+    ]
+  },
+  {
+    "name": "OneGate",
+    "developer": "The Neo Order",
+    "homepage": "https://onegate.space/",
+    "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/one_gate_icon.svg",
+    "platforms": [
+      {
+        "type": "MOBILE",
+        "name": "Android",
+        "url": ""
+      },
+      {
+        "type": "MOBILE",
+        "name": "iOS",
+        "url": ""
+      }
+    ]
+  }
+]
