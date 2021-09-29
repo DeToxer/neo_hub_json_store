@@ -1,4 +1,5 @@
-[
+{
+  "wallets": [
   {
     "name": "Neo-GUI",
     "developer": "Neo Global Development",
@@ -156,3 +157,4 @@
     ]
   }
 ]
+}
