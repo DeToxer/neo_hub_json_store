@@ -114,7 +114,7 @@
       "name":"Lyrebird",
       "description": "Lyrebird is an algorithmic stablecoin and synthetic asset protocol built on the Neo N3 blockchain. The protocol maintains pegs on desired currencies by guaranteeing that the Lyrebird token (LRB) can always be exchanged for each stablecoin token at fair value. For example, $1 worth of LRB can be consumed to mint one Lyrebird USD (LUSD) token and vice versa. The protocol relies on arbitrageurs to stabilize the prices of its stablecoins on exchanges by expanding or contracting the supply to match the demand.",
       "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/lyrebird_logo.png",
-      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/lyrebird_banner.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/lyrebird_banner.jpg",
       "category": "DEFI",
       "website": "https://lyrebird.finance/",
       "social_media_links": [
