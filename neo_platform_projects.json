@@ -1,1 +1,7 @@
-{}
+{
+  projects: [
+    0: {
+      name: "ToTheMoon"
+    }
+  ]
+}
