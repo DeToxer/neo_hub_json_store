@@ -159,6 +159,26 @@
           "url": "https://github.com/NekoHitDev"
         }
       ]
+    },
+
+    {
+      "name":"TranslateMe",
+      "description": "Welcome to the NekoHit Project - a platform built on top of NEO N3 which allows you to support projects from people all around the world using the bleeding edge blockchain technology. As a creator you can fund your \"WCA\" (Work Completion Agreements) with CAT tokens. On the other hand as a supporter you can help out your favorite content creators. NekoHit has specifically been designed so that both parties are taking a risk as less as possible.",
+      "logo_url": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/translate_me_logo.png",
+      "category": "OTHER",
+      "website": "https://translateme.network/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/translatemenet"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://translateme.medium.com/"
+        },
+      ]
     }
   ]
 }
