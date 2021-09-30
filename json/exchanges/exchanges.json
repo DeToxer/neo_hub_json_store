@@ -3,22 +3,22 @@
     {
       "name": "OKEx",
       "url": "https://www.okex.com/",
-      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exchanges_icons/okex_logo.png"
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exhanges_icons/okex_logo.png"
     },
     {
       "name": "gate.io",
       "url": "https://www.gate.io/",
-      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exchanges_icons/gateio_logo.png"
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exhanges_icons/gateio_logo.png"
     },
     {
       "name": "CEX IO",
       "url": "https://cex.io/",
-      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exchanges_icons/cex_logo.png"
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exhanges_icons/cex_logo.png"
     },
     {
       "name": "Huobi Global",
       "url": "https://www.huobi.com/en-us/",
-      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exchanges_icons/huobi_logo.png"
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exhanges_icons/huobi_logo.png"
     }
   ]
 }
