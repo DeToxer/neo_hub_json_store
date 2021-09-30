@@ -1,0 +1,14 @@
+{
+  "explorers": [
+    {
+      "name": "Dora",
+      "link": "https://dora.coz.io/",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/explorers_logos/dora_logo.png"
+    },
+    {
+      "name": "Neotube",
+      "link": "https://neo3.neotube.io/",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/explorers_logos/neotube_logo.png"
+    }
+  ]
+}
