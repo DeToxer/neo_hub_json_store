@@ -9,7 +9,7 @@
         {
           "type": "DESKTOP",
           "os": "WINDOWS",
-          "name": "Microsoft Windows",
+          "name": "Windows",
           "url": "https://github.com/neo-ngd/Neo3-GUI"
         },
         {
@@ -29,7 +29,7 @@
         {
           "type": "DESKTOP",
           "os": "MACOS",
-          "name": "Microsoft Windows",
+          "name": "Windows",
           "url": "https://github.com/neo-project/neo-node"
         },
         {
@@ -54,7 +54,7 @@
         {
           "type": "DESKTOP",
           "os": "WINDOWS",
-          "name": "Microsoft Windows",
+          "name": "Windows",
           "url": "https://neonwallet.com/"
         },
         {
@@ -106,7 +106,7 @@
         {
           "type": "DESKTOP",
           "os": "WINDOWS",
-          "name": "Microsoft Windows",
+          "name": "Windows",
           "url": "https://o3.network/#download"
         },
         {
@@ -190,7 +190,7 @@
         {
           "type": "DESKTOP",
           "os": "WINDOWS",
-          "name": "Microsoft Windows",
+          "name": "Windows",
           "url": "https://www.ledger.com/ledger-live/download"
         },
         {
