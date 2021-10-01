@@ -216,6 +216,12 @@
           "os": "IOS",
           "name": "iOS",
           "url": "https://www.ledger.com/ledger-live/download"
+        },
+        {
+          "type": "HARDWARE",
+          "os": "HARDWARE",
+          "name": "Ledger Nano",
+          "url": "https://www.ledger.com/ledger-live/download"
         }
       ]
     }
