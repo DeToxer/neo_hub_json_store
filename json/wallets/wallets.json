@@ -185,7 +185,7 @@
       "name": "Ledger Nano S/X",
       "developer": "Ledger SAS",
       "homepage": "https://www.ledger.com/",
-      "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/ledger_icon.png",
+      "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/ledger_nano_icon.png",
       "platforms": [
         {
           "type": "DESKTOP",
