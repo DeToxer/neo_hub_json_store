@@ -23,7 +23,7 @@
     {
       "name": "Neo-CLI",
       "developer": "The Neo Project",
-      "homepage": "https://neo.ord/",
+      "homepage": "https://neo.org/",
       "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neo_cli_icon.png",
       "platforms": [
         {
