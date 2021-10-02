@@ -200,7 +200,6 @@
         }
       ]
     },
-
     {
       "name":"NeoBurger",
       "description": "A balance between justice and profits for neo governance.\n\nbNEO is a standard NEP-17 token with decimals 8 and it can be minted from NEO and redeemed to NEO 1:1. bNEO holders receive optimized GAS reward in Neo governance. Neoburger participates in NEO GOVERNANCE by making use of the deposited NEO and distributes the GAS reward to bNEO holders.\n\nNeoburger is 7x24 maintained by automated systems and optimized strategies. Neoburger alway try to maximize the GAS reward by adjusting the voting targets and voting positions of Neoburger agents since marginal revenues of each candidate are different and changing all the time.\n\nThe permission of strategist is restricted by the candidate whitelist in order to protect the dBFT assumptions since it’s our responsibility to keep the network safe.",
