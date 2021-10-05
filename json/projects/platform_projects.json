@@ -179,6 +179,71 @@
           "url": "https://github.com/neoburger/neoburger.github.io"
         }
       ]
+    },
+    {
+      "name":"TranslateMe",
+      "description": "Machine translation has been around for many years, its biggest challenge is finding suitable data. TranslateMe Network creates an incentive for users to contribute this valuable data. Each sentence submitted mints new TMN tokens in exchange for the data. As more TMN is issued the data collected increases the quality of the machine translation.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/translate_me_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/translateme_banner.png",
+      "category": "OTHER",
+      "website": "https://translateme.network/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/translatemenet"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://translateme.medium.com/"
+        }
+      ]
+    },
+    {
+      "name": "Rentfuse",
+      "description": "Rentfuse is a protocol that enables NFT owners on Neo N3 to rent out their assets while maintaining ownership control. It allows borrowers to use an NFT for a predetermined period of time in exchange for GAS, without the owner relinquishing custody of the asset.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_banner.png",
+      "category": "NFT",
+      "website": "https://github.com/mfbz/rentfuse",
+      "social_media_links": [
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/mfbz/rentfuse"
+        }
+      ]
+    },
+    {
+      "name": "GALAXZ",
+      "description": "GALAXZ is a sci-fi space adventure game. The creative team is a group of hardcore players who are passionate about the game. GALAXZ contains hundreds of billions of stars. The entire GALAXZ universe is extremely large. Players can go to any place they want. The only limitation is the laws of physics, that is, they may not be able to travel to every corner of the universe in their lifetimes.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/galaxz_logo.jpg",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/galaxz_banner.jpg",
+      "category": "NFT",
+      "website": "https://galaxz.com/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/galaxzgame"
+        },
+        {
+          "name": "Reddit",
+          "type": "REDDIT",
+          "url": "https://www.reddit.com/r/galaxz/"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://t.me/galaxzgame"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/galaxzgame"
+        }
+      ]
     }
   ]
 }
