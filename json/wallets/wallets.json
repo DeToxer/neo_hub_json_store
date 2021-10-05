@@ -4,6 +4,7 @@
       "name": "Neo-GUI",
       "developer": "Neo Global Development",
       "homepage": "https://ngdenterprise.com/",
+      "walletUrl": "https://docs.neo.org/docs/en-us/node/gui/install.html",
       "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neo_gui_icon.png",
       "platforms": [
         {
@@ -25,6 +26,7 @@
       "developer": "The Neo Project",
       "homepage": "https://neo.org/",
       "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neo_cli_icon.png",
+      "walletUrl": "https://docs.neo.org/docs/en-us/node/cli/setup.html",
       "platforms": [
         {
           "type": "DESKTOP",
@@ -51,6 +53,7 @@
       "developer": "City of Zion",
       "homepage": "https://coz.io/",
       "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neon_wallet_icon.png",
+      "walletUrl": "https://neonwallet.com/",
       "platforms": [
         {
           "type": "DESKTOP",
@@ -76,6 +79,7 @@
       "name": "NeoLine",
       "developer": "NeoNext",
       "homepage": "https://neoline.io/",
+      "walletUrl": "https://neoline.io/",
       "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/neo_line_icon.png",
       "platforms": [
         {
@@ -102,6 +106,7 @@
       "name": "O3 Wallet",
       "developer": "O3 Labs",
       "homepage": "https://o3.network/",
+      "walletUrl": "https://o3.network/",
       "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/O3_icon.png",
       "platforms": [
         {
@@ -140,6 +145,7 @@
       "name": "ONTO Wallet",
       "developer": "ONTO",
       "homepage": "https://onto.app/",
+      "walletUrl": "https://onto.app/",
       "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/onto_icon.png",
       "platforms": [
         {
@@ -166,6 +172,7 @@
       "name": "OneGate",
       "developer": "The Neo Order",
       "homepage": "https://onegate.space/",
+      "walletUrl": "https://onegate.space/",
       "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/one_gate_wallet_icon.png",
       "platforms": [
         {
@@ -186,6 +193,7 @@
       "name": "Ledger Nano S/X",
       "developer": "Ledger SAS",
       "homepage": "https://www.ledger.com/",
+      "walletUrl": "https://www.ledger.com/ledger-live/download",
       "wallet_icon": "https://detoxer.github.io/neo_hub_json_store/assets/wallet_icons/ledger_nano_icon.png",
       "platforms": [
         {
