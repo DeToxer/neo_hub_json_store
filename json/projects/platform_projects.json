@@ -203,11 +203,16 @@
     {
       "name": "Rentfuse",
       "description": "Rentfuse is a protocol that enables NFT owners on Neo N3 to rent out their assets while maintaining ownership control. It allows borrowers to use an NFT for a predetermined period of time in exchange for GAS, without the owner relinquishing custody of the asset.",
-      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_logo.png",
-      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_banner.png",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_logo.jpg",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_banner.jpg",
       "category": "NFT",
       "website": "https://github.com/mfbz/rentfuse",
       "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/rentfuse_io"
+        },
         {
           "name": "GitHub",
           "type": "GITHUB",
