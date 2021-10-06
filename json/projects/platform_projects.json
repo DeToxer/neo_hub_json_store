@@ -249,6 +249,36 @@
           "url": "https://t.me/galaxzgame"
         }
       ]
+    },
+    {
+      "name": "Defina Finance",
+      "description": "Defina Finance is a blockchain-based role-playing game (RPG) featuring a play-to-earn system. Players can participate in DeFi yield farming and reap on-chain earnings while enjoying a fun and strategic game with Player Versus Environment (PVE) and Player Versus Player (PVP) modes. The playable characters in the Defina Finance game are called heroes. These hero characters are represented by NFTs: Each hero is unique, with a particular combination of characteristics and capabilities. Players can buy or collect heroes through various NFT Mystery Boxes or through a secondary marketplace. Players can fight and enhance their heroes to learn skills in numerous game scenarios.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/defina_finance_banner.jpeg",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/defina_finance_banner.jpeg",
+      "category": "NFT",
+      "website": "https://defina.finance/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/definafinance"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://defina-finance.medium.com/"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "http://discord.gg/defina"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "http://t.me/definafinance1"
+        }
+      ]
     }
   ]
 }
