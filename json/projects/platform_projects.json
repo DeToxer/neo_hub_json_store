@@ -279,6 +279,66 @@
           "url": "http://t.me/definafinance1"
         }
       ]
+    },
+    {
+      "name": "Neolend",
+      "description": "Neolend is a decentralized lending protocol built on Neo. The Neolend Token (NLEND) tokens will be distributed to participants and will act as an added incentive to attract more liquidity. neolend offers fine-grained control over your adjustable deposits, allowing you to set up an individual pool strategy to your liking. The neolend protocol is built in such a way that no oracle calls are required making it a secure choice for DeFi lending. NLEND is the governance token of Neolend and allows holders to exercise control over the protocol. neolend.finance: a user-friendly platform utilizing the neolend protocol and offering users an easy way to borrow, lend and manage assets. Neolend will be fully open-source, allowing any developer to run and test it locally.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/neolend_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/neolend_banner.png",
+      "category": "DEFI",
+      "website": "https://neolend.finance/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/NeolendFinance"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/neolend"
+        }
+      ]
+    },
+    {
+      "name": "Neoverse",
+      "description": "To celebrate the launch of the N3 MainNet, NGD is launching Neoverse - a NFT mint and collection event together with all developer communities. Users from all over the world are welcome to participate. The Neoverse N3 Collector's Edition NFTs are not only invaluable collectibles, but also carry various “VIP” privileges within the Neo ecosystem.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/neoverse_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/neoverse_banner.png",
+      "category": "NFT",
+      "website": "https://neoverse.neo.org/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/neo_blockchain"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.gg/rvZFQ5382k"
+        },
+        {
+          "name": "Reddit",
+          "type": "REDDIT",
+          "url": "https://www.reddit.com/r/NEO/"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://medium.com/neo-smart-economy"
+        },
+        {
+          "name": "Facebook",
+          "type": "FACEBOOK",
+          "url": "https://www.facebook.com/NeoBlockchainOfficial"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/NEO_EN"
+        }
+      ]
     }
   ]
 }
