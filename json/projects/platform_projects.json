@@ -339,6 +339,26 @@
           "url": "https://t.me/NEO_EN"
         }
       ]
+    },
+    {
+      "name": "ELEMENTS",
+      "description": "Elements is a server backend engine for games and applications that require cloud connectivity. The infrastructure service provider offers a one-stop solution that enables users to develop, prototype, and deploy features found in other applications.\n\nElements supports various platforms, consoles, and architectures such as iOS, Android, Unity, PS4, XBOX ONE, Steam, AWS, and more. Bush League is a past client that used Elements’ seamless backend solutions for online player-versus-player and tournaments in their multiplayer game, Drop Squad.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/elements_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/elements_banner.jpg",
+      "category": "OTHER",
+      "website": "https://www.getelements.dev/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://www.twitter.com/ElementCompInc"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.gg/8Z5uycQeWv"
+        }
+      ]
     }
   ]
 }
