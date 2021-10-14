@@ -9,6 +9,11 @@
       "name": "Neotube",
       "link": "https://neo3.neotube.io/",
       "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/explorers_logos/neotube_logo.png"
+    },
+    {
+      "name": "OneGate",
+      "link": "https://explorer.onegate.space/homepage",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/explorers_logos/onegate_logo.png"
     }
   ]
 }
