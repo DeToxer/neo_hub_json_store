@@ -359,6 +359,42 @@
           "url": "https://discord.gg/8Z5uycQeWv"
         }
       ]
+    },
+    {
+      "name": "Saffron Finance",
+      "description": "Launched in October 2020 by pseudonymous founder \"Psykeeper\", Saffron Finance is a protocol that allows users (i.e. liquidity providers) to have access to customizable and dynamic risk/reward exposures on the pools that they choose to interact with. The protocol's main use case is to act as an intermediary between liquidity providers and lending protocols, where liquidity providers can provide liquidity to lending protocols through various SFI tranches. The protocol's native token SFI is used to gain access to specified tranches on the protocol via staking as well as to govern the protocol. Upon its upcoming V2 release, SFI holders will also have a future entitlement to protocol fees.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/saffron_finance_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/saffron_finance_banner.jpg",
+      "category": "DEFI",
+      "website": "https://app.saffron.finance/#home",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/saffronfinance_"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.gg/pDXpXKY"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://medium.com/saffron-finance"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/saffronfinance"
+        },
+
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "github.com/saffron-finance/saffron"
+        }
+      ]
     }
   ]
 }
