@@ -395,6 +395,36 @@
           "url": "github.com/saffron-finance/saffron"
         }
       ]
+    },
+    {
+      "name": "O3 Swap",
+      "description": "O3 Swap is a proprietary cross-chain aggregation protocol built by O3 Labs. The mission of O3 Swap is to provide consumers access to cryptocurrency-based, financial services, allowing them to exchange, or ‘swap’, various digital assets within their O3 Wallet. The benefits of this design can be attributed to the high level of safety and security that is inherent to the decentralized model of asset storage and protection. The platform also provides ‘cross-chain’ swaps to conduct exchange settlements without regard to the limitations of a typical isolated Blockchain network.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/o3_swap_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/o3_swap_banner.png",
+      "category": "DEFI",
+      "website": "https://o3swap.com/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/O3_Labs"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/O3LabsOfficial"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://medium.com/o3-labs-o3-wallet"
+        },
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/O3Labs"
+        }
+      ]
     }
   ]
 }
