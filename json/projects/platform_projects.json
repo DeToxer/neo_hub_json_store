@@ -425,6 +425,21 @@
           "url": "https://github.com/O3Labs"
         }
       ]
+    },
+    {
+      "name": "Knights of Revalia",
+      "description": "Knights Of Revalia is a retro styled MMORPG where you craft, explore, fight and trade various items obtained during your quests.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/knights_of_revalia_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/knights_of_revalia_banner.png",
+      "category": "GAMEFI",
+      "website": "https://www.knightsofrevalia.com/",
+      "social_media_links": [
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.gg/XBnaTwZ7M2"
+        }
+      ]
     }
   ]
 }
