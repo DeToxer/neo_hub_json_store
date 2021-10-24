@@ -214,6 +214,11 @@
           "url": "https://twitter.com/rentfuse_io"
         },
         {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.com/invite/WAFe92keDd"
+        },
+        {
           "name": "GitHub",
           "type": "GITHUB",
           "url": "https://github.com/mfbz/rentfuse"
