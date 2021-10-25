@@ -482,7 +482,7 @@
       ]
     },
     {
-      "name": "Flamingo",
+      "name": "Flamingo Finance",
       "description": "Flamingo is an interoperable, full-stack decentralized finance protocol built on the Neo blockchain. Flamingo is comprised of five main components, including Wrapper - a crosschain asset gateway, Swap - an on-chain liquidity provider, Vault - a one-stop asset manager, Perp - an AMM-based perpetual contract trading platform, and also DAO - a decentralized governance mechanism. FLM is the governance token of Flamingo and will be 100% distributed to the community based on participation.\nThe Flamingo project is incubated by Neo Global Development* (NGD), underscoring Neo's vision to build the Smart Economy, of which decentralized finance is a crucial component. NGD will facilitate the early-stage development of the Flamingo project, and the governance mechanism will gradually transit from Proof-of-Authority (POA) to DAO. The Flamingo project will eventually run by the community.",
       "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/flamingo_logo.png",
       "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/flamingo_banner.png",
