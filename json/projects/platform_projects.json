@@ -445,6 +445,72 @@
           "url": "https://discord.gg/XBnaTwZ7M2"
         }
       ]
+    },
+    {
+      "name": "MyWish",
+      "description": "In the world of cryptocurrencies there are no mechanisms for managing the\nfunds in various life circumstances, such as in the case of lifelong annuities, marriage contracts, death\nor the loss of key for the wallet. MyWish platform is dedicated to solving the issue. The platform allows creating and executing the\nrules for distribution of funds using smart contracts and decentralized environment for calling them. From the user’s point of view, MyWish is a mobile application and a website where anyone can easily\ncreate a smart contract and then manage it. The simplest contract consists of three parts: wallet\n(source), conditions, and wallet (destination). The conditions determine, when the transfer of funds\nmust be done. The platform supports full life cycle of a contract: creation, starting, monitoring and\ncompletion. It provides the tools for management and customization of personalized contracts.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/mywish_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/mywish_banner.jpg",
+      "category": "OTHER",
+      "website": "https://mywish.io/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/mywishplatform"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/MyWish_platform"
+        },
+        {
+          "name": "Facebook",
+          "type": "FACEBOOK",
+          "url": "https://www.facebook.com/MyWish.io/"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://cryptomywish.medium.com/"
+        },
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://cryptomywish.medium.com/"
+        }
+      ]
+    },
+
+    {
+      "name": "Flamingo",
+      "description": "Flamingo is an interoperable, full-stack decentralized finance protocol built on the Neo blockchain. Flamingo is comprised of five main components, including Wrapper - a crosschain asset gateway, Swap - an on-chain liquidity provider, Vault - a one-stop asset manager, Perp - an AMM-based perpetual contract trading platform, and also DAO - a decentralized governance mechanism. FLM is the governance token of Flamingo and will be 100% distributed to the community based on participation.\nThe Flamingo project is incubated by Neo Global Development* (NGD), underscoring Neo's vision to build the Smart Economy, of which decentralized finance is a crucial component. NGD will facilitate the early-stage development of the Flamingo project, and the governance mechanism will gradually transit from Proof-of-Authority (POA) to DAO. The Flamingo project will eventually run by the community.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/flamingo_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/flamingo_banner.png",
+      "category": "DEFI",
+      "website": "https://flamingo.finance/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/FlamingoFinance"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.gg/xGp9gbM"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://medium.com/flamingo-finance/"
+        },
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/flamingo-finance"
+        }
+      ]
     }
   ]
 }
