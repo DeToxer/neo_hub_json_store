@@ -481,7 +481,6 @@
         }
       ]
     },
-
     {
       "name": "Flamingo",
       "description": "Flamingo is an interoperable, full-stack decentralized finance protocol built on the Neo blockchain. Flamingo is comprised of five main components, including Wrapper - a crosschain asset gateway, Swap - an on-chain liquidity provider, Vault - a one-stop asset manager, Perp - an AMM-based perpetual contract trading platform, and also DAO - a decentralized governance mechanism. FLM is the governance token of Flamingo and will be 100% distributed to the community based on participation.\nThe Flamingo project is incubated by Neo Global Development* (NGD), underscoring Neo's vision to build the Smart Economy, of which decentralized finance is a crucial component. NGD will facilitate the early-stage development of the Flamingo project, and the governance mechanism will gradually transit from Proof-of-Authority (POA) to DAO. The Flamingo project will eventually run by the community.",
@@ -509,6 +508,26 @@
           "name": "GitHub",
           "type": "GITHUB",
           "url": "https://github.com/flamingo-finance"
+        }
+      ]
+    },
+    {
+      "name": "NEO-BITS",
+      "description": "Neo gems is an easy cooperative game for the NEO community.\nIn the early days (now) it is only possible to do 3 main things:\n\n- Buy Coal NFTs\n\n- Join rounds to get Pressure NFTs\n\n- Forge diamond NFTs from Coal and Pressure.\n\n\nPressure rounds:\nA pressure round is one round in the game, the more tickets that is bought for the round, the more pressure are generated for everyone. When the round is complete, you can claim your pressure, and you will then receive a NFT with the amount of pressure you got from the round.\nAs said, the more player, more pressure for everyone.\n\nCoal:\nBuy coal in the store, Coal determent the size of the Diamond NFT, but with more you need even more pressure (Calculator coming).\n\nDiamonds:\nBurn Coal and Pressure NFTs to forge a Diamond. The amount of coal and pressure determins the carat of the diamond.\n\n\nYou can also split/merge Pressure and Coal NFTs (not Diamonds). All items can be sold on GhostMarket.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/neobits_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/neobits_banner.jpg",
+      "category": "NFT",
+      "website": "https://neobits.app/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/NEOBITS_"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.com/invite/a5R97QJnS6"
         }
       ]
     }
