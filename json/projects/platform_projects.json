@@ -550,6 +550,36 @@
           "url": "https://github.com/ForTheWinn"
         }
       ]
+    },
+    {
+      "name": "Nash",
+      "description": "Nash is a fintech company focused on bridging the gap between crypto and local currencies.\n\nWe offer market-leading rates for buying and selling cryptocurrency and support instant purchases. Funds go to directly a wallet only you control, secured by multi-party computation (MPC). Nash’s cryptocurrency products never take control of your funds. The technical term for this is “non-custodial”, and it means Nash is considerably safer than other platforms. We let users invest in digital currencies, store them securely, trade on high-performance markets and make payments without giving up custody of their assets.\n\nNash operates the only Layer-2 exchange that supports native Bitcoin trading, cross-chain with Ethereum and NEO.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nash_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nash_banner.png",
+      "category": "OTHER",
+      "website": "https://nash.io/",
+      "social_media_links": [
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/ForTheWinn"
+        },
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/nashsocial"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/nashsocial"
+        },
+        {
+          "name": "Reddit",
+          "type": "REDDIT",
+          "url": "https://www.reddit.com/r/Nash/"
+        }
+      ]
     }
   ]
 }
