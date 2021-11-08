@@ -4,7 +4,7 @@
       "name":"TOTHEMOON",
       "description": "TOTHEMOON aims to bridge the gap between those unaware of cryptocurrency/blockchain technology and enthusiasts, professionals and industry whales. The team’s goal is to revolutionize the NFT space through unconventional and forward thinking. TOTHEMOON’s growth will ultimately contribute to the crypto community’s expansion into untapped markets and provide quality NFT’s that can be incorporated into multiple projects.",
       "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/tothemoon_logo.png",
-      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/tothemoon_banner.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/tothemoon_banner.jpg",
       "category": "GAMEFI",
       "website": "https://tothemoon.net/",
       "social_media_links": [
@@ -139,7 +139,7 @@
       "name":"NekoHit",
       "description": "Welcome to the NekoHit Project - a platform built on top of NEO N3 which allows you to support projects from people all around the world using the bleeding edge blockchain technology. As a creator you can fund your \"WCA\" (Work Completion Agreements) with CAT tokens. On the other hand as a supporter you can help out your favorite content creators. NekoHit has specifically been designed so that both parties are taking a risk as less as possible.",
       "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nekohit_logo.png",
-      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nekohit_banner.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nekohit_banner.jpg",
       "category": "OTHER",
       "website": "https://wca.nekohit.com/about",
       "social_media_links": [
@@ -208,7 +208,7 @@
     {
       "name": "Rentfuse",
       "description": "Rentfuse is a protocol that enables NFT owners on Neo N3 to rent out their assets while maintaining ownership control. It allows borrowers to use an NFT for a predetermined period of time in exchange for GAS, without the owner relinquishing custody of the asset.",
-      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_logo.jpg",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_logo.png",
       "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/rentfuse_banner.jpg",
       "category": "NFT",
       "website": "https://github.com/mfbz/rentfuse",
@@ -233,7 +233,7 @@
     {
       "name": "GALAXZ",
       "description": "GALAXZ is a sci-fi space adventure game. The creative team is a group of hardcore players who are passionate about the game. GALAXZ contains hundreds of billions of stars. The entire GALAXZ universe is extremely large. Players can go to any place they want. The only limitation is the laws of physics, that is, they may not be able to travel to every corner of the universe in their lifetimes.",
-      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/galaxz_logo.jpg",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/galaxz_logo.png",
       "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/galaxz_banner.jpg",
       "category": "GAMEFI",
       "website": "https://galaxz.com/",
