@@ -5,7 +5,7 @@
       "description": "TOTHEMOON aims to bridge the gap between those unaware of cryptocurrency/blockchain technology and enthusiasts, professionals and industry whales. The team’s goal is to revolutionize the NFT space through unconventional and forward thinking. TOTHEMOON’s growth will ultimately contribute to the crypto community’s expansion into untapped markets and provide quality NFT’s that can be incorporated into multiple projects.",
       "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/tothemoon_logo.png",
       "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/tothemoon_banner.png",
-      "category": "NFT",
+      "category": "GAMEFI",
       "website": "https://tothemoon.net/",
       "social_media_links": [
         {
@@ -578,6 +578,171 @@
           "name": "Reddit",
           "type": "REDDIT",
           "url": "https://www.reddit.com/r/Nash/"
+        }
+      ]
+    },
+    {
+      "name": "Blockchain Cuties",
+      "description": "Blockchain Cuties Universe is the first multi-blockchain game that offers complex DeFi + NFT mechanics which deliver true \"Play2Earn\" concept and aligns incentives of game developers, players, traders and the community veterans.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/blockchain_cuties_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/blockchain_cuties_banner.jpg",
+      "category": "GAMEFI",
+      "website": "https://blockchaincuties.com/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/BlockchainCutie"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/bcugfinance"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.com/invite/C6KCEU7"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://medium.com/blockchain-cuties"
+        },
+        {
+          "name": "Reddit",
+          "type": "REDDIT",
+          "url": "https://www.reddit.com/user/blockchaincuties/"
+        }
+      ]
+    },
+    {
+      "name": "ArGo",
+      "description": "ArGo is a platform that ships user data and web applications to decentralized ecosystems with ease. ArGo provides a utility that allows developers to publish their data or web apps to the NeoFS decentralized object storage system. ArGo’s goal is to become the AWS of the decentralized web.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/argo_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/argo_banner.jpg",
+      "category": "OTHER",
+      "website": "https://argoapp.net/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/argoapplive"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/argoofficial"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.com/invite/ahxuCtm"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://argoapp.medium.com/"
+        },
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/argoapp-live"
+        }
+      ]
+    },
+    {
+      "name": "PolyNetwork",
+      "description": "Poly Network is built to implement interoperability between multiple chains in order to build the next generation internet infrastructure. Authorized homogeneous and heterogeneous public blockchains can connect to Poly Network through an open, transparent admission mechanism and communicate with other blockchains.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/polynetwork_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/polynetwork_banner.jpg",
+      "category": "OTHER",
+      "website": "https://poly.network",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/PolyNetwork2"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/joinchat/Hjv5NBrfO1C2LyODQfxVDw"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.com/invite/y6MuEnq"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://polynetwork.medium.com/"
+        },
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/polynetwork"
+        }
+      ]
+    },
+    {
+      "name": "Notai",
+      "description": "Notal lets you send payments to anyone with your own condition. The service introduces the ability for an individual on the blockchain to create an escrow account and transfer funds to it, which can be designated to a recipient account. The recipient can then release these funds when a particular condition is met. The condition would be specified by the sender along with a payment expiry date. If the condition is not fulfilled by the time of expiry, the sender can cancel the payment whereby the funds will be transferred back to the sender account.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/notai_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/notai_banner.png",
+      "category": "OTHER",
+      "website": "https://notai.vercel.app/",
+      "social_media_links": [
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/jnlewis/notai-smart-contract"
+        }
+      ]
+    },
+    {
+      "name": "Bridge Protocol",
+      "description": "Bridge Identity is a unique approach to sovereign identity that is ideal for securely managing, and transmitting digital identity. Users are empowered to be in total control and have the power to only disclose their identifying data when and with whom they choose. Since Bridge Identity is fully portable, it also provides several online, offline, and blockchain-based identity verification options with added flexibility to accept Bridge Identity in any application or real-world use case. The framework was built and open-sourced to bring sovereign digital identity to the community with the core SDK, integration components, and end-user clients available and free to use in all of your software and hardware applications.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/bridge_protocol_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/bridge_protocol_banner.jpg",
+      "category": "OTHER",
+      "website": "https://bridgeprotocol.io/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/BridgeProtocol"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/BRIDGEprotocol"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://medium.com/bridgeprotocol"
+        },
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/bridge-protocol"
+        }
+      ]
+    },
+    {
+      "name": "Cattery",
+      "description": "Cattery is a decentralised Clubhouse dynamic NFT based membership dapp. This allows decentralised membership based platform for Clubhouse where even users can join even with anonymity.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/cattery_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/cattery_banner.png",
+      "category": "OTHER",
+      "website": "https://cattery.amanraj.dev/",
+      "social_media_links": [
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/BakaOtaku/dClubhouse"
         }
       ]
     }
