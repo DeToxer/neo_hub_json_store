@@ -19,6 +19,11 @@
       "name": "Huobi Global",
       "url": "https://www.huobi.com/en-us/",
       "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exhanges_icons/huobi_logo.png"
+    },
+    {
+      "name": "BigONE",
+      "url": "https://big.one/en",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exhanges_icons/big_one_logo.png"
     }
   ]
 }
