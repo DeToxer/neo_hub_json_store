@@ -745,6 +745,31 @@
           "url": "https://github.com/BakaOtaku/dClubhouse"
         }
       ]
+    },
+    {
+      "name": "iMe Smart Platform",
+      "description": "iMe is a native messaging smart platform powered by Telegram with Crypto Wallet. Extended Telegram features & DeFi capabilities.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/ime_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/ime_banner.jpg",
+      "category": "OTHER",
+      "website": "https://imem.app/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/imeplatform"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": " http://t.me/ime_en http://t.me/iMeLime"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://imesmartplatform.medium.com/"
+        }
+      ]
     }
   ]
 }
