@@ -770,6 +770,51 @@
           "url": "https://imesmartplatform.medium.com/"
         }
       ]
+    },
+    {
+      "name": "Polychain Monsters",
+      "description": "Polychain Monsters offers collectible, animated NFTs that users can find in digital booster packs purchased with $PMON tokens on Ethereum, Binance Smart Chain, and Polygon. Each booster pack includes three collectible NFTs known as Polymon monsters. The monsters in each pack have randomly selected sets of attributes that differ in rarity, resulting in some combinations of attributes that are especially scarce and desirable.\nIn addition to being an NFT and gaming product, Polychain Monsters leverages familiar features from traditional decentralized finance (DeFi) projects: Players of the Polychain Monsters game can earn rewards by farming or by staking.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/polychain_monsters_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/polychain_monsters_banner.jpg",
+      "category": "GAMEFI",
+      "website": "https://polychainmonsters.com/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/polychainmon"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": " https://t.me/polychainmonsters"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://medium.com/polychainmonsters"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://discord.com/invite/2JBNG9C3vz"
+        }
+      ]
+    },
+    {
+      "name": "Sky",
+      "description": "Coming soon...",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/sky_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/sky_banner.png",
+      "category": "OTHER",
+      "website": "https://www.skyhut.app/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/skykaarma"
+        }
+      ]
     }
   ]
 }

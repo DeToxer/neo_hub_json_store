@@ -14,6 +14,11 @@
       "name": "OneGate",
       "link": "https://explorer.onegate.space/homepage",
       "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/explorers_logos/onegate_logo.png"
+    },
+    {
+      "name": "NEO tracker",
+      "link": "https://n3.neotracker.io/",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/explorers_logos/neotracker_logo.png"
     }
   ]
 }
