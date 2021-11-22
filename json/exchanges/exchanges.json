@@ -1,6 +1,11 @@
 {
   "exchanges": [
     {
+      "name": "Binance",
+      "url": "https://www.binance.com",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exhanges_icons/binance_logo.png"
+    },
+    {
       "name": "OKEx",
       "url": "https://www.okex.com/",
       "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/exhanges_icons/okex_logo.png"
