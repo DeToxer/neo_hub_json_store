@@ -815,6 +815,51 @@
           "url": "https://twitter.com/skykaarma"
         }
       ]
+    },
+    {
+      "name": "N3 Trader",
+      "description": "N3 Trader is a decentralised peer to peer trading platform for Neo N3 NFTs and tokens. N3 Trader allows users to trade and swap any number of NEP-11 & NEP-17 tokens. The N3 Trader smart contract acts as a trusted escrow to protect all parties in a trade.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/n3_trader_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/n3_trader_banner.png",
+      "category": "DEFI",
+      "website": "https://n3trader.mercurialapps.com/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/MercurialApps"
+        }
+      ]
+    },
+    {
+      "name": "Neo Candy",
+      "description": "Neo Candy is a project which utilizes a NEP-17 token with the same name to attract more people to the N3 ecosystem and reward them for interacting with different Neo DAPPS. The idea is that people will get free Neo Candy when participating in events from other N3 projects. Additionally, Neo Candy is a community token, meaning that everyone can participate and receive their free share of Neo Candy. But just holding a token in their wallet with no further use is not very much fun. Therefore, many games are currently under development that let Neo Candy holders spend their candy in a fun way. In addition, some games will also introduce the player to essential DeFi elements.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/neo_candy_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/neo_candy_banner.jpg",
+      "category": "GAMEFI",
+      "website": "https://neocandy.io/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/NeoCandyN3"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.com/invite/7ssWUpvcfF"
+        },
+        {
+          "name": "Reddit",
+          "type": "REDDIT",
+          "url": "https://www.reddit.com/r/NeoCandy/"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/NeoCandyN3"
+        }
+      ]
     }
   ]
 }
