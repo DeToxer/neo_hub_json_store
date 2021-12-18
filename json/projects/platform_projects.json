@@ -860,6 +860,26 @@
           "url": "https://t.me/NeoCandyN3"
         }
       ]
+    },
+    {
+      "name": "Mega Oasis",
+      "description": "A high quality marketplace for NFT artworks on Neo Economy.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/mega_oasis_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/mega_oasis_banner.jpg",
+      "category": "NFT",
+      "website": "https://twitter.com/MegaOasis2021",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/MegaOasis2021"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "discord.gg/FxfSgTCUuN"
+        }
+      ]
     }
   ]
 }
