@@ -537,7 +537,7 @@
       ]
     },
     {
-      "name": "FTW",
+      "name": "Forthewin",
       "description": "The first purely decentralized blockchain lottery which is 100% automated in the smart contract.\n\n",
       "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/forthewin_logo.png",
       "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/forthewin_banner.png",
@@ -878,6 +878,217 @@
           "name": "Discord",
           "type": "DISCORD",
           "url": "discord.gg/FxfSgTCUuN"
+        }
+      ]
+    },
+    {
+      "name": "NudesToken",
+      "description": "There are 7.9 billion people on Earth. Every single one of us has a duty to send NUDES to one another. The clock is ticking… The NUDES token is the memecoin of all memecoins and was minted by smart contract on the Neo N3 blockchain. You can receive, hold, and send NUDES from any Neo N3 wallet: NeoLine, O3, and NEON.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nudes_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nudes_banner.jpg",
+      "category": "NFT",
+      "website": "https://nudes.army/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/SendnudesToken"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.gg/nudestoken"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/sendnudestoken"
+        }
+      ]
+    },
+    {
+      "name": "DogeRift",
+      "description": "Build your own team of Doges and beat your opponents! Every Doge has unique strengths based on their upgrades.\n\nEarn daily and weekly rewards by playing DofeRift.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/dogerift_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/dogerift_banner.jpg",
+      "category": "GAMEFI",
+      "website": "https://dogerift.com/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/DogeRift"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.gg/SwztdKh5nC"
+        }
+      ]
+    },
+    {
+      "name": "SOMNIUMWAVE",
+      "description": "SOMNIUMWAVE exists so people can experience deeper connections with friends and communities, create economic and ownership opportunities, and truly express themselves.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/somniumwave_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/somniumwave_banner.jpg",
+      "category": "GAMEFI",
+      "website": "https://www.somniumwave.com/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://www.twitter.com/somniumwave"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://www.discord.gg/somniumwave"
+        },
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/somniumwave"
+        }
+      ]
+    },
+    {
+      "name": "PROPS",
+      "description": "In an effort to enhance the developer experience of the Neo N3 platform, COZ has developed the PROPS project. This project is the first of many which will significantly improve the ease of use and scalability of both smart contracts and off-chain integrations within our ecosystem.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/props_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/props_banner.jpg",
+      "category": "OTHER",
+      "website": "https://props.coz.io/d",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/coz_official"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.gg/rvZFQ5382k"
+        },
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/CityOfZion/props"
+        }
+      ]
+    },
+    {
+      "name": "DoraHacks",
+      "description": "Explore Web 3 innovations at DoraHacks: BUIDLs, grants, hackathons, and more.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/dora_hacks_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/dora_hacks_banner.jpg",
+      "category": "OTHER",
+      "website": "https://dorahacks.io/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/DoraHacks"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.com/invite/RFXypqtXA9"
+        },
+        {
+          "name": "Facebook",
+          "type": "FACEBOOK",
+          "url": "https://www.facebook.com/DoraHacksGlobalHack"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://hidorahacks.medium.com/"
+        }
+      ]
+    },
+    {
+      "name": "Gleeder",
+      "description": "Neo’s two token model (NEO & GAS) requires users to pay GAS token as a transaction fee.\nGleeder allows users to get GAS token even if your address doesn’t have it.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/gleeder_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/gleeder_banner.png",
+      "category": "OTHER",
+      "website": "https://gleeder.app/",
+      "social_media_links": [
+
+      ]
+    },
+    {
+      "name": "GrantShares",
+      "description": "A decentralized and transparent grants program for the Neo ecosystem.\n\nNeo thrives through the initiatives of many individuals and not by a single authority. GrantShares goal is to encourage individual contributors to materialise their ideas on Neo. It does that by allowing anyone to propose a project and get funding through a decentralized and on-chain decision process.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/grant_shares_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/grant_shares_banner.jpg",
+      "category": "OTHER",
+      "website": "https://grantshares.io/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/GrantShares"
+        },
+        {
+          "name": "GitHub",
+          "type": "GITHUB",
+          "url": "https://github.com/AxLabs/grantshares"
+        }
+      ]
+    },
+    {
+      "name": "Hacash.Diamonds",
+      "description": "HACD is the first ever PoW NFT and the first NFT that combines Text, Number, DNS, Bidding System, Mystery Box, Combinable Collection and Energy Generative Art on the blockchain. The first HACD was mined on May 16, 2019.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/hacash_diamonds_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/hacash_diamonds_banner.jpg",
+      "category": "NFT",
+      "website": "https://www.hacash.diamonds/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/HacashDiamond"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.com/invite/VVvqQ8KmvY"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://medium.com/hacash-diamonds"
+        }
+      ]
+    },
+    {
+      "name": "Supernova",
+      "description": "Supernova is a sci-fi sandbox survival MMORPG in an open world featuring indirect controls and an open economy with play to earn mechanics. Engage in many in-game professions, including trading, politics, war, piracy, and exploration.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/supernova_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/supernova_banner.jpg",
+      "category": "GAMEFI",
+      "website": "https://sunday.games/supernova/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/SupernovaVerse"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.com/invite/4peUa4Xa3N"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/+jNNGMc-lkzJlMjZi"
+        },
+        {
+          "name": "Facebook",
+          "type": "FACEBOOK",
+          "url": "https://www.facebook.com/SupernovaVerse"
         }
       ]
     }
