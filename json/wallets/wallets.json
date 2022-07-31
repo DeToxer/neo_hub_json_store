@@ -179,13 +179,13 @@
           "type": "MOBILE",
           "os": "ANDROID",
           "name": "Android",
-          "url": ""
+          "url": "https://play.google.com/store/apps/details?id=org.neoorder.onegate"
         },
         {
           "type": "MOBILE",
           "os": "IOS",
           "name": "iOS",
-          "url": ""
+          "url": "https://apps.apple.com/us/app/onegate/id1584915425"
         }
       ]
     },
