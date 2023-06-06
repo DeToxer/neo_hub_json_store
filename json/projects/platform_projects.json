@@ -80,6 +80,41 @@
         }
       ]
     },
+        {
+      "name":"GhostMarket",
+      "description": "GhostMarket is the most powerful cross-chain Non-Fungible Token (NFT) marketplace in the world! It sports a comprehensive selection of features wrapped in a gorgeous and intuitive user interface. GhostMarket features fully trustless NFT trading facilitated by smart contracts on each integrated blockchain.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/ghostmarket_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/ghostmarket_banner.png",
+      "category": "DEFI",
+      "website": "https://ghostmarket.io/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/ghostmarketio"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.gg/THHTS4F"
+        },
+        {
+          "name": "Telegram",
+          "type": "TELEGRAM",
+          "url": "https://t.me/ghostmarketio"
+        },
+        {
+          "name": "Reddit",
+          "type": "REDDIT",
+          "url": "https://www.reddit.com/r/ghostmarket/"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://medium.com/ghostmarket"
+        }
+      ]
+    },
     {
       "name":"HumSwap",
       "description": "Humswap is one of the Neo Frontier Launchpad Excellence award winners, and was developed by Mario Lopez and Jason Tezanos — two excellent engineers at PayPal. As a two-man team, Humswap is bringing together the worlds of DeFi and NFTs by creating unique NFTs that have potential benefits such as stackable yields, yield multipliers, lower swapping fees, and much more.",
