@@ -917,27 +917,37 @@
       ]
     },
     {
-      "name": "NudesToken",
-      "description": "There are 7.9 billion people on Earth. Every single one of us has a duty to send NUDES to one another. The clock is ticking… The NUDES token is the memecoin of all memecoins and was minted by smart contract on the Neo N3 blockchain. You can receive, hold, and send NUDES from any Neo N3 wallet: NeoLine, O3, and NEON.",
-      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nudes_logo.png",
-      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/nudes_banner.jpg",
-      "category": "NFT",
-      "website": "https://nudes.army/",
+      "name": "Meme2Earn",
+      "description": "There are 8 billion people on Earth. Every single one of us has a duty to create and enjoy memes. The clock is ticking… The revolutionary Meme2Earn platform is a state-of-the-art, first of its kind, meme platform where you can post your own memes to earn TIPS tokens whenever someone likes your meme and upvotes it with TIPS. Meme2Earn is for everyone. Anyone can post memes on any topic. But more specifically, its for people who want to create memes and earn TIPS tokens, people who want to see awesome memes, vote on them, and comment on them to support the creators with TIPS and earn TIPS while doing so, and for projects who want to advertise their project in a fun and creative way.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/meme2earn_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/meme2earn_banner.jpg",
+      "category": "GAMEFI",
+      "website": "https://meme2earn.com/",
       "social_media_links": [
         {
           "name": "Twitter",
           "type": "TWITTER",
-          "url": "https://twitter.com/SendnudesToken"
+          "url": "https://twitter.com/meme2earn_com"
         },
         {
           "name": "Discord",
           "type": "DISCORD",
-          "url": "https://discord.gg/nudestoken"
+          "url": "https://discord.gg/xk3FNK2ktH"
+        },
+        {
+          "name": "Reddit",
+          "type": "REDDIT",
+          "url": "https://reddit.com/r/meme2earn"
+        },
+        {
+          "name": "Medium",
+          "type": "MEDIUM",
+          "url": "https://medium.com/meme2earn"
         },
         {
           "name": "Telegram",
           "type": "TELEGRAM",
-          "url": "https://t.me/sendnudestoken"
+          "url": "https://t.me/meme_2_earn"
         }
       ]
     },
