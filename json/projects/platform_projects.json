@@ -1136,6 +1136,26 @@
           "url": "https://www.facebook.com/SupernovaVerse"
         }
       ]
+    },
+    {
+      "name": "Quirky Soul College",
+      "description": "Quirky Soul College is a collection of 10.000 dynamic NFTs called Quirky Souls. Each character is unique and generated randomly onchain on mint with traits and stats that characterized its appearance, rarity and strengths. Owning a Quirky Soul you enroll to the College and you can start training your character by making it ventures through the Night to fight monsters and obtain rewards. Moreover, you can vote in decisions that will shape the story of the College and its students. The Fresh Dark Elixir tokens (FDE) function as the main mean to interact with Quirky Soul College world. They can be used for venturing or healing your character, and they can be earned as rewards when a mission is completed successfully.",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/quirky_soul_college_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/quirky_soul_college_banner.jpg",
+      "category": "GAMEFI",
+      "website": "https://www.quirkysoulcollege.com/",
+      "social_media_links": [
+        {
+          "name": "Twitter",
+          "type": "TWITTER",
+          "url": "https://twitter.com/QuirkySoulCLG"
+        },
+        {
+          "name": "Discord",
+          "type": "DISCORD",
+          "url": "https://discord.gg/yfa6mgBYdK"
+        }
+      ]
     }
   ]
 }
