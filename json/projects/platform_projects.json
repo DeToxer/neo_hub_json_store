@@ -1156,6 +1156,15 @@
           "url": "https://discord.gg/yfa6mgBYdK"
         }
       ]
+    },
+    {
+      "name": "NeoCompounder",
+      "description": "NeoCompounder auto-compounds your NEO by converting GAS rewards into more NEO.\n\nTo get started, all you have to do is swap your NEO or bNEO into cNEO.\n\nWhen you want to withdraw, you can simply swap your cNEO back into bNEO at an ever-increasing rate!",
+      "thumbnail": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/neo_compounder_logo.png",
+      "banner": "https://detoxer.github.io/neo_hub_json_store/assets/project_logos/neo_compounder_banner.jpg",
+      "category": "DEFI",
+      "website": "https://neocompounder.com/",
+      "social_media_links": []
     }
   ]
 }
